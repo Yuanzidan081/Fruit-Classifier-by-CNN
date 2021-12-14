@@ -20,9 +20,10 @@
 >pip install PyQt5-tools
 
 ## 文件说明
-** data/images**：水果图片
+**data/images**：水果图片
 
-** data/labelnum.txt**：各种水果
+**data/labelnum.txt**：各种水果
+
 **CNN_Data_inout.py**:图片文件（jpg）、txt文件等的读取、写入模块
 
 **CNN_fruit_train_test.py**：CNN测试和训练模块，输出结果保存为model_val.pth
