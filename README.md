@@ -22,7 +22,11 @@
 ## 文件说明
 **data/images**：水果图片
 
-**data/labelnum.txt**：各种水果
+**data/labelnum.txt**：各种水果的标号、名称、数量
+
+**data/test.txt**：从images中挑选的测试集
+
+**data/train.txt**：从images中挑选的训练集
 
 **CNN_Data_inout.py**:图片文件（jpg）、txt文件等的读取、写入模块
 
