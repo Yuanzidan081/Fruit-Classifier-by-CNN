@@ -1,0 +1,12 @@
+label	fruit	number
+0	Apple	65
+1	Brin	120
+2	Cherry	66
+3	Cherry_Tomatoes	74
+4	Hawthorn	119
+5	Jujube	139
+6	Kiwi	43
+7	Lemon	50
+8	Longan	135
+9	Orange_green	71
+10	Orange_red	69
