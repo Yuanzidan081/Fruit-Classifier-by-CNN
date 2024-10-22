@@ -41,3 +41,6 @@
 **GUI.py**：GUI界面布局
 
 **main_window.py**：GUI主程序，包括回调槽函数
+
+![test](test.gif)
+
